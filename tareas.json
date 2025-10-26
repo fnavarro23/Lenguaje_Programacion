@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "descripcion": "fran",
+    "estado": "Pendiente",
+    "fecha_creacion": "2025-10-16T10:08:28.1778784-04:00"
+  },
+  {
+    "id": 2,
+    "descripcion": "prueba 2",
+    "estado": "Finalizada",
+    "fecha_creacion": "2025-10-16T10:09:23.1580097-04:00"
+  },
+  {
+    "id": 3,
+    "descripcion": "prueba 3",
+    "estado": "Cancelada",
+    "fecha_creacion": "2025-10-16T10:09:28.6918092-04:00"
+  }
+]
